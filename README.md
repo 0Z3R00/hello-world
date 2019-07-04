@@ -1,2 +1,3 @@
 # hello-world
-iniciando aprendizado no GitHub.
+ 
+prendendo um pouco de GitHUb,  estou gostando :) .
