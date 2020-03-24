@@ -1,3 +1,3 @@
 # hello-world
  
-prendendo um pouco de GitHUb,  estou gostando :) .
+Aprendendo um pouco de git e Github,  estou gostando :) 
